@@ -19,7 +19,7 @@ The goal of this project is to analyze call center data to identify patterns in 
 
 ## Links
 Dataset Link - https://drive.google.com/drive/folders/1SR6h7ikonDnZZrjzAbMpqosrdWPvHh84?usp=sharing
-PPT Link - https://docs.google.com/presentation/d/1IKi052iLTpGAnJGwt0ar8dPiLYs05q8a/edit?usp=sharing&ouid=112242448912909439867&rtpof=true&sd=true
+PPT Link - https://drive.google.com/file/d/1KF1SgVWjvClvvAZ8Z9A9ctiREdUHCcFV/view?usp=sharing
 
 ## Dataset Description
 
