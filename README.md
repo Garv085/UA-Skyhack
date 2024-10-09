@@ -19,7 +19,7 @@ The goal of this project is to analyze call center data to identify patterns in 
 
 ## Links
 Dataset Link - https://drive.google.com/drive/folders/1SR6h7ikonDnZZrjzAbMpqosrdWPvHh84?usp=sharing
-PPT Link - 
+PPT Link - https://docs.google.com/presentation/d/1IKi052iLTpGAnJGwt0ar8dPiLYs05q8a/edit?usp=sharing&ouid=112242448912909439867&rtpof=true&sd=true
 
 ## Dataset Description
 
@@ -43,5 +43,5 @@ The following datasets are used in the analysis:
       - scipy
       - matplotlib
       - seaborn
-2. Downlad the datasets from the link provided and place the code filr and datasets in same file to run the code.
+2. Downlad the datasets from the link provided and place the code file and datasets in same folder to run the code.
 
